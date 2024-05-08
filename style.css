@@ -199,7 +199,7 @@ html {
 /* QUEM SOMOS */ 
 
 .quem-somos {
-    background-color: #2941ab;
+    background-color: pink;
 }
 
 .quem-somos .conteudo {
@@ -218,7 +218,7 @@ html {
 
 .quem-somos .conteudo .informacoes .titulo {
     font-size: 50px;
-    color: pink;
+    color: #fff;
     margin-bottom: 20px;
 }
 
